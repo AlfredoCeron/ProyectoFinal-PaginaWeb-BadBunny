@@ -12,3 +12,22 @@
 #canciones li {
   font-weight: bold;
 }
+
+/* Dividir pantalla de HitosCulturades en logros.html*/
+.contenedor {
+  display: flex; /* Divide en horizontal */
+}
+
+.columna {
+  width: 100%; /* Cada lado ocupa la mitad */
+  text-align: center; /* Centra el contenido */
+  padding: 20px;
+}
+
+.columna img {
+  width: 250px; /* Ajusta tamaño imagen */
+  height: auto;
+}
+.columna li {
+  text-align: left;
+}
