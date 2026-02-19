@@ -7,3 +7,8 @@
   background-color: #000304; /*Fondo negro para el contenedor de álbumes */
   padding: 10px; /* Agrega espacio de borde de interior hacia exterior */
 }
+
+/* Estilo para negritas de titulos de las canciones populares */
+#canciones li {
+  font-weight: bold;
+}
