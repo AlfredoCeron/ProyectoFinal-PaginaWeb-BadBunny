@@ -31,3 +31,10 @@
 .columna li {
   text-align: left;
 }
+
+/* estilo a footer*/
+footer {
+  background-color: rgb(78, 78, 78);
+  color: white;
+  padding: 10px;
+}
