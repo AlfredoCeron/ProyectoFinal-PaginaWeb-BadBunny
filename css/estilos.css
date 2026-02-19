@@ -19,7 +19,7 @@
 }
 
 .columna {
-  width: 100%; /* Cada lado ocupa la mitad */
+  width: 35%; /* Cada lado ocupa la mitad */
   text-align: center; /* Centra el contenido */
   padding: 20px;
 }
@@ -37,4 +37,29 @@ footer {
   background-color: rgb(78, 78, 78);
   color: white;
   padding: 10px;
+}
+
+nav {
+  background-color: #2de1d8;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+nav a {
+  padding: 15px;
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#grammy h2 {
+  color: yellow;
+  background-color: black;
+  padding: 20px;
+  border-radius: 5px;
+}
+#billboard h2 {
+  color: white;
+  background-color: black;
+  padding: 20px;
+  border-radius: 5px;
 }
