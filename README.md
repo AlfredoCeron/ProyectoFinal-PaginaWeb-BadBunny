@@ -141,17 +141,29 @@ http://127.0.0.1:5500/
 
 ## 📁 Estructura del Proyecto
 
-ProyectoFinal-PaginaWeb-BadBunny/
+```
+ProyectoFinal-PaginaWeb-BadBunny/ /
 │
 ├── index.html
 ├── logros.html
-├── readme.md
-├── evidencias.md
+├── README.md
+├── EVIDENCIAS.md
+│
 ├── css/
-│ └── estilos.css
-└── images/
-│  
+│   └── estilos.css
+│
+├── images/
+│   ├── albumes.jpg
+│   ├── iconoBadBunny.ico
+│   └── saludo.jpg
+│
 └── evidencias/
+    ├── github-pages.png
+    ├── historial-commits.png
+    ├── web-Discografia.png
+    ├── web-Multiverso.png
+    └── web-SuperBowl.png
+```
 
 ---
 
