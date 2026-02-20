@@ -173,6 +173,9 @@ Las evidencias del desarrollo del proyecto se encuentran en el archivo:
 
 📄 `evidencias.md`
 
+**_Link directo:_**
+https://github.com/AlfredoCeron/ProyectoFinal-PaginaWeb-BadBunny/blob/main/EVIDENCIAS.md
+
 En dicho documento se incluyen capturas, pruebas de funcionamiento y documentación complementaria del desarrollo.
 
 ---
